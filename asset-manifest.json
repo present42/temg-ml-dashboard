@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/temg-ml-dashboard/static/css/main.fa638b47.css",
+    "main.js": "/temg-ml-dashboard/static/js/main.7f556a69.js",
+    "index.html": "/temg-ml-dashboard/index.html",
+    "main.fa638b47.css.map": "/temg-ml-dashboard/static/css/main.fa638b47.css.map",
+    "main.7f556a69.js.map": "/temg-ml-dashboard/static/js/main.7f556a69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa638b47.css",
+    "static/js/main.7f556a69.js"
+  ]
+}
